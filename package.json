@@ -1,0 +1,12 @@
+﻿{
+  "name": "shopee-cart-nodejs",
+  "version": "1.0.0",
+  "description": "Carrinho de compras inspirado na Shopee usando Node.js",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "author": "Ronaldo Augusto Sabino e Rogério Augusto Sabino",
+  "license": "MIT"
+}
